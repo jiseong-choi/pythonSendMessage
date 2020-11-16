@@ -1,0 +1,8 @@
+[tool]
+[tool.poetry]
+name = "root"
+version = "0.0.0"
+
+[tool.poetry.dependencies]
+python = "*"
+twilio = "==6.29.4"
